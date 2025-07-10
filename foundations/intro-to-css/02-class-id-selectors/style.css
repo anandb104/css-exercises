@@ -1,0 +1,16 @@
+.chu{
+    background-color:hsl(360,100%,90%);
+    font-family:Verdana,"DejaVu-Sans","sans-serif";
+}
+.bhu{
+    font-size:24px;
+}
+#lu{
+    color:blue;
+    font-size:36px;
+}
+#ruh{
+    background-color:hsl(120,100%, 75%);
+    font-size:24px;
+    font-weight:1000px;
+}
